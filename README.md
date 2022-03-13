@@ -3,7 +3,7 @@ IC Design Lab (EE 652)
 Assignment 4
 
 ************************************************************
-To run the AutomaticLibraryEvaluationFramework.ipynb file, first make sure that you have latest version of jupyter lab and python3 installes in your system
+To run the AutomaticLibraryEvaluationFramework.ipynb file, first make sure that you have latest version of jupyter lab and python3 installed in your system
 Make sure that you have installed numpy, pandas, matplotlib libraries
 
 1) Exract ScriptsAndModules.zip file to your working folder
