@@ -12,3 +12,4 @@ Make sure that you have installed numpy, pandas, matplotlib libraries
 4) Run each cell one by one
 5) Result.csv will be generated in Result folder
 6) Open result.csv file to see power, timing and utilisation report of each design (You will see similar results file as result.csv uploaded here)
+7) An Impl folder will also be generated in which detailed power, timing and utilisation report of each design module can be seen
